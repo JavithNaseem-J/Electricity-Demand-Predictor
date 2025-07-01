@@ -1,0 +1,7 @@
+artifacts_root: "artifacts"
+
+data_ingestion:
+  root_dir: "data_ingestion"
+  source_api: https://api.eia.gov/v2/electricity/rto/region-sub-ba-data/data/
+  raw_data_path: artifacts/data_ingestion/raw_data/
+  data_file: artifacts/data_ingestion/data/electricity_demand.csv

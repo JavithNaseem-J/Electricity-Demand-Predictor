@@ -20,6 +20,7 @@ list_of_files = [
     f"src/{project_name}/config_entity/__init__.py",
     f"src/{project_name}/config_entity/config_entity.py",
     f"src/{project_name}/__init__.py",
+    "notebooks/EDA.ipynb",
     "main.py",
     "app.py",
     "pyproject.toml",
