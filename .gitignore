@@ -193,4 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-/artifacts/data_ingestion/raw_data/
+/artifacts
